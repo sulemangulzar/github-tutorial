@@ -22,9 +22,18 @@ cd Documents/GitHub/sulemangulzar
 
 Clone the repository:
 ```
-gh clone sulemangulzar/<repo_name>
+gh repo clone sulemangulzar/<repo_name>
 ```
 
+Go into the repo directory:
+```
+cd <repo_name>
+```
+
+Open in VSCode:
+```
+code .
+```
 
 ### Commit changes and push
 Stage all changes:
